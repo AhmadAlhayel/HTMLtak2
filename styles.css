@@ -1,0 +1,16 @@
+body {
+  background: ffcfcf url("image.pang") no-repeat right top;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: sans-serif;
+}
+p {
+  color: black;
+
+  p.solid {
+    border-style: solid;
+  }
+}
